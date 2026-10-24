@@ -66,15 +66,7 @@ const PROJECTS = [
     description: "A step-by-step plan to run real Klipper on an Anycubic Kobra S1 while keeping the factory macros, ACE multicolor system, stock webcam and stock screen working.",
     status: "Planning",
     madeWith: "solo",
-    tags: ["3D printing", "Klipper", "Firmware"],
-    links: []
-  },
-  {
-    name: "Apple TV-style launcher for Android TV",
-    description: "A clean, custom home screen for a low-memory Android TV: bloat removed over ADB, a native launcher, plus restore and build-and-install scripts.",
-    status: "In progress",
-    madeWith: "claude",
-    tags: ["Android", "Java", "Home theater"],
+    tags: ["3D printing", "Firmware"],
     links: []
   },
   {
@@ -82,7 +74,7 @@ const PROJECTS = [
     description: "A first-person shop sim in Unity: mine rocks, sort them by type, and sell them in your own store.",
     status: "In progress",
     madeWith: "claude",
-    tags: ["Game dev", "Unity", "C#"],
+    tags: ["Unity", "C#"],
     links: []
   },
   {
